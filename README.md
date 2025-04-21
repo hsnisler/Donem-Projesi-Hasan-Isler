@@ -8,9 +8,9 @@ Projenin amacı; bilgisayar markalarını tanıtmak, kıyaslamak ve kullanıcıl
 
 ## Ekran Görüntüleri
 
-![Ana Sayfa](https://i.hizliresim.com/h3t5ebl.jpg)
+![Ana Sayfa](https://resmim.net/cdn/2025/04/21/NVfNF7.png)
 #
-![Hakkımızda](https://i.hizliresim.com/ap9s1ms.jpg)
+![Hakkımızda](https://resmim.net/cdn/2025/04/21/NVfXEH.png)
 #
-![Yardım_Destek](https://i.hizliresim.com/sevprl4.jpg)
+![Yardım_Destek](https://resmim.net/cdn/2025/04/21/NVfj5c.png)
   
